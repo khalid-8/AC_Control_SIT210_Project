@@ -15,7 +15,7 @@ DHT22 >> Raspberry Pi
     the third pin from the left  >>  N/A
     the forth pin from the left  >>  Gnd
     A digram example: https://ibb.co/sWFPrhX
-  
+ -------------------------------- 
 IR Transimtter >> Raspberry Pi
     long leged pin >> GPIO 4
     short leged pin >> 220 ohm resistor >> Gnd
