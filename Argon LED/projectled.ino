@@ -32,7 +32,7 @@ void sendSensor()
                     Startmil = millis(); //starting counting
                 }
                 
-                notifyTime = millis(); //for the porpuse of meat the condinion every 30 minutes
+                notifyTime = millis(); //for the porpuse of meet the condinion every 30 minutes
                 Totalmil = (notifyTime - Startmil) / (60 * 1000); //calculate the run time of the AC
                 if (Totalmil > 29 && Totalmil < 31) //if it's more than 29 minutes notify the user
                 {
