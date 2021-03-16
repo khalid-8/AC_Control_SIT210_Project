@@ -14,7 +14,7 @@ DHT22 >> Raspberry Pi
     the second pin from the left >>  GPIO 17 + 10K ohm resistor >> 3.5V 
     the third pin from the left  >>  N/A
     the forth pin from the left  >>  Gnd
-    A digram example:https://ibb.co/sWFPrhX
+    A digram example: ![alt text](https://github.com/khalid-8/AC_Control_SIT210_Project/blob/master/Digrams/IMG_4961.JPG) 
  -------------------------------- 
 IR Transimtter >> Raspberry Pi
     long leged pin >> GPIO 4
@@ -24,11 +24,11 @@ IR Transimtter >> Raspberry Pi
 Photoresistor >> Particl Argon
    Photoresistor pin >> A5
    Photoresistor pin >> A0 + 10K ohm resistor >> Gnd
-   A digram example: https://ibb.co/Y0Gzd24
+   A digram example: ![alt text](https://github.com/khalid-8/AC_Control_SIT210_Project/blob/master/Digrams/IMG_4960.JPG)
 
  
 IR receiver >> Arduino 
    the first pin from the left >> D2
    the middle pin >> Gnd
    the last pin >> 3.5V
-   A digram example: https://ibb.co/8NRwD9f
+   A digram example: ![alt text](https://github.com/khalid-8/AC_Control_SIT210_Project/blob/master/Digrams/IMG_4959.PNG)
